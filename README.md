@@ -1,4 +1,5 @@
-# MeinErstesRepo
+# Bella Pizza
+Ein Stück ist nicht genug
 
 ## Ziel
 Finde deine Lieblingspizza

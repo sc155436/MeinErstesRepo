@@ -1,0 +1,19 @@
+body{
+
+}
+
+header{
+    background-color: aqua;
+}
+aside{
+    background-color: azure;
+}
+main{
+    background-color: bisque;
+}
+section{
+    background-color: cadetblue;
+}
+footer{
+    background-color: blueviolet;
+}

@@ -1,0 +1,26 @@
+body{
+
+}
+
+header{
+    background: rgb(139, 115, 226);
+}
+
+aside{
+background-color: rgb(173, 133, 211);
+}
+
+main{
+    background-color: rgb(206, 176, 235);
+}
+section{
+    background-color: rgb(194, 153, 233);
+}
+
+section2{
+    background-color: rgb(212, 178, 243);
+}
+
+footer{
+    background-color: rgb(203, 147, 255);
+}

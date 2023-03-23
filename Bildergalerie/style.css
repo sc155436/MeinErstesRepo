@@ -2,3 +2,7 @@
     padding: 20px;
     background-color: rgb(197, 226, 250)
 }
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+}

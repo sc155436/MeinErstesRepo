@@ -1,4 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
 #balken {
-    padding: 20px;
+    padding: 20px 0px 20px 20px;
     background-color: rgb(197, 226, 250)
+}
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
